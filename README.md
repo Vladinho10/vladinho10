@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vlad</h1>
-<h3 align="center">Backend Developer and lover )</h3>
+<h3 align="center">Backend Developer and lover</h3>
+<h4 align="rigth">"Everybody is a Genius. 
+But If You Judge a Fish by Its Ability to Climb a Tree, 
+It Will Live Its Whole Life Believing that It is Stupid." (c) Albert Einstein</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladinho10&label=Profile%20views&color=0e75b6&style=flat" alt="vladinho10" /> </p>
 
